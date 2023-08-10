@@ -1,0 +1,412 @@
+[10-Aug-2023 06:01:10 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:01:10 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:01:13 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:01:13 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:01:21 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:01:21 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:01:23 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:01:26 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:01:36 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:01:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:01:39 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:01:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:01:57 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:05 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:11 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:11 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:02:12 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:12 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:02:22 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:02:27 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:32 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:39 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:02:49 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:03:05 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:03:12 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:03:12 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:03:40 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:03:45 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:03:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:03:50 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:04:51 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:06:31 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:06:35 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:06:51 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:06:52 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:06:59 UTC] PHP Warning:  unlink(/tmp/wordpress-6.3-en_gb.zip): No such file or directory in /var/www/html/taxi-onspot/wp-admin/includes/class-wp-upgrader.php on line 385
+[10-Aug-2023 06:06:59 UTC] WordPress database error Table 'wp_trp_gettext_en_gb' already exists for query CREATE TABLE `wp_trp_gettext_en_gb`(
+                                    id bigint(20) AUTO_INCREMENT NOT NULL PRIMARY KEY,
+                                    original  longtext NOT NULL,
+                                    translated  longtext,
+                                    domain  longtext,
+                                    status int(20),
+                                    original_id bigint(20),
+                                    plural_form int(20),
+                                    UNIQUE KEY id (id) )
+                                     DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Gettext_Table_Creation->check_gettext_table, dbDelta
+[10-Aug-2023 06:06:59 UTC] WordPress database error Duplicate key name 'index_name' for query CREATE INDEX index_name ON `wp_trp_gettext_en_gb` (original(100)); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Gettext_Table_Creation->check_gettext_table
+[10-Aug-2023 06:06:59 UTC] WordPress database error Duplicate key name 'original_fulltext' for query CREATE FULLTEXT INDEX original_fulltext ON `wp_trp_gettext_en_gb`(original); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Gettext_Table_Creation->check_gettext_table
+[10-Aug-2023 06:06:59 UTC] WordPress database error Table 'wp_trp_dictionary_en_gb_en_us' already exists for query CREATE TABLE `wp_trp_dictionary_en_gb_en_us`(
+                                    id bigint(20) AUTO_INCREMENT NOT NULL PRIMARY KEY,
+                                    original  longtext NOT NULL,
+                                    translated  longtext,
+                                    status int(20) DEFAULT 0,
+                                    block_type int(20) DEFAULT 0,
+                                    original_id bigint(20) DEFAULT NULL,
+                                    UNIQUE KEY id (id) )
+                                     DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table, dbDelta
+[10-Aug-2023 06:06:59 UTC] WordPress database error Duplicate key name 'index_name' for query CREATE INDEX index_name ON `wp_trp_dictionary_en_gb_en_us` (original(100)); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:06:59 UTC] WordPress database error Duplicate key name 'original_fulltext' for query CREATE FULLTEXT INDEX original_fulltext ON `wp_trp_dictionary_en_gb_en_us`(original); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:06:59 UTC] WordPress database error Table 'wp_trp_dictionary_en_gb_it_it' already exists for query CREATE TABLE `wp_trp_dictionary_en_gb_it_it`(
+                                    id bigint(20) AUTO_INCREMENT NOT NULL PRIMARY KEY,
+                                    original  longtext NOT NULL,
+                                    translated  longtext,
+                                    status int(20) DEFAULT 0,
+                                    block_type int(20) DEFAULT 0,
+                                    original_id bigint(20) DEFAULT NULL,
+                                    UNIQUE KEY id (id) )
+                                     DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table, dbDelta
+[10-Aug-2023 06:06:59 UTC] WordPress database error Duplicate key name 'index_name' for query CREATE INDEX index_name ON `wp_trp_dictionary_en_gb_it_it` (original(100)); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:06:59 UTC] WordPress database error Duplicate key name 'original_fulltext' for query CREATE FULLTEXT INDEX original_fulltext ON `wp_trp_dictionary_en_gb_it_it`(original); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:07:00 UTC] WordPress database error Table 'wp_trp_dictionary_en_gb_pl_pl' already exists for query CREATE TABLE `wp_trp_dictionary_en_gb_pl_pl`(
+                                    id bigint(20) AUTO_INCREMENT NOT NULL PRIMARY KEY,
+                                    original  longtext NOT NULL,
+                                    translated  longtext,
+                                    status int(20) DEFAULT 0,
+                                    block_type int(20) DEFAULT 0,
+                                    original_id bigint(20) DEFAULT NULL,
+                                    UNIQUE KEY id (id) )
+                                     DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table, dbDelta
+[10-Aug-2023 06:07:00 UTC] WordPress database error Duplicate key name 'index_name' for query CREATE INDEX index_name ON `wp_trp_dictionary_en_gb_pl_pl` (original(100)); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:07:00 UTC] WordPress database error Duplicate key name 'original_fulltext' for query CREATE FULLTEXT INDEX original_fulltext ON `wp_trp_dictionary_en_gb_pl_pl`(original); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:07:00 UTC] WordPress database error Table 'wp_trp_dictionary_en_gb_es_es' already exists for query CREATE TABLE `wp_trp_dictionary_en_gb_es_es`(
+                                    id bigint(20) AUTO_INCREMENT NOT NULL PRIMARY KEY,
+                                    original  longtext NOT NULL,
+                                    translated  longtext,
+                                    status int(20) DEFAULT 0,
+                                    block_type int(20) DEFAULT 0,
+                                    original_id bigint(20) DEFAULT NULL,
+                                    UNIQUE KEY id (id) )
+                                     DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table, dbDelta
+[10-Aug-2023 06:07:00 UTC] WordPress database error Duplicate key name 'index_name' for query CREATE INDEX index_name ON `wp_trp_dictionary_en_gb_es_es` (original(100)); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:07:00 UTC] WordPress database error Duplicate key name 'original_fulltext' for query CREATE FULLTEXT INDEX original_fulltext ON `wp_trp_dictionary_en_gb_es_es`(original); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:07:00 UTC] WordPress database error Table 'wp_trp_dictionary_en_gb_el' already exists for query CREATE TABLE `wp_trp_dictionary_en_gb_el`(
+                                    id bigint(20) AUTO_INCREMENT NOT NULL PRIMARY KEY,
+                                    original  longtext NOT NULL,
+                                    translated  longtext,
+                                    status int(20) DEFAULT 0,
+                                    block_type int(20) DEFAULT 0,
+                                    original_id bigint(20) DEFAULT NULL,
+                                    UNIQUE KEY id (id) )
+                                     DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table, dbDelta
+[10-Aug-2023 06:07:00 UTC] WordPress database error Duplicate key name 'index_name' for query CREATE INDEX index_name ON `wp_trp_dictionary_en_gb_el` (original(100)); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:07:00 UTC] WordPress database error Duplicate key name 'original_fulltext' for query CREATE FULLTEXT INDEX original_fulltext ON `wp_trp_dictionary_en_gb_el`(original); made by update_option, sanitize_option, apply_filters('sanitize_option_trp_settings'), WP_Hook->apply_filters, TRP_Settings->sanitize_settings, TRP_Query->check_table
+[10-Aug-2023 06:07:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:17 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:19 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:32 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:37 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:37 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:38 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:38 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:42 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:07:57 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:08:07 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:08:13 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:08:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:08:15 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:08:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:08:17 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:08:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:08:27 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:08:29 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:08:34 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:11:48 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:11:49 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:14:01 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:14:04 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:14:36 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:14:56 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:14:57 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:15:14 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:15:16 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-admin/admin-header.php on line 36
+[10-Aug-2023 06:15:16 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-admin/admin-header.php on line 36
+[10-Aug-2023 06:15:25 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-admin/admin-header.php on line 36
+[10-Aug-2023 06:15:27 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-admin/admin-header.php on line 36
+[10-Aug-2023 06:15:31 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-admin/admin-header.php on line 36
+[10-Aug-2023 06:15:34 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:15:35 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:15:38 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:16:59 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:17:18 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:17:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:17:20 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:17:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:17:38 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:17:47 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:04 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:25 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:28 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:41 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:49 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:50 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:53 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:56 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:18:57 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:19:09 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:19:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:19:11 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:19:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:23:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:23:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:23:06 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:23:11 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:23:21 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:26:11 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:26:23 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:26:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:26:38 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:26:44 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:26:52 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:27:24 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:27:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:27:28 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:27:33 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:28:12 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:28:18 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:28:24 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:29:20 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:31:07 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:31:55 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:32:02 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:32:02 UTC] PHP Deprecated:  Optional parameter $url declared before required parameter $sitemap_cache_path is implicitly treated as a required parameter in /var/www/html/taxi-onspot/wp-content/plugins/wp-fastest-cache/inc/preload.php on line 576
+[10-Aug-2023 06:32:04 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:32:09 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:32:13 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:32:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:32:15 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:32:45 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:32:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:34:31 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:34:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:34:34 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
+[10-Aug-2023 06:34:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 2 arguments are required, 1 given in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php:1453
+Stack trace:
+#0 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php(1453): sprintf()
+#1 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/includes/class-storage-methods-interface.php(89): UpdraftPlus_BackupModule_googledrive->get_template_properties()
+#2 /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/admin.php(865): UpdraftPlus_Storage_Methods_Interface::get_remote_storage_options_and_templates()
+#3 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(310): UpdraftPlus_Admin->admin_enqueue_scripts()
+#4 /var/www/html/taxi-onspot/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/taxi-onspot/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/taxi-onspot/wp-admin/admin-header.php(118): do_action()
+#7 /var/www/html/taxi-onspot/wp-admin/admin.php(239): require_once('...')
+#8 /var/www/html/taxi-onspot/wp-admin/options-general.php(10): require_once('...')
+#9 {main}
+  thrown in /var/www/html/taxi-onspot/wp-content/plugins/updraftplus/methods/googledrive.php on line 1453
+[10-Aug-2023 06:34:50 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/taxi-onspot/wp-includes/formatting.php on line 2827
